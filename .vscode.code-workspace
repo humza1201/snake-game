@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": ".vscode",
+			"path": "../Raylib-CPP-Starter-Template-for-VSCODE-main/.vscode"
+		},
+		{
+			"name": "snake game",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
